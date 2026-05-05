@@ -7,7 +7,7 @@ This is My first data analysis project
 - Found best and worst day
 - Saved data as CSV file
 
-## Tools uesd:
+## Tools used:
 - Python
 - Pandas
 
